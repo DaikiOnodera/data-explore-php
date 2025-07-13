@@ -1,0 +1,17 @@
+{
+    "name": "daikionodera/data-visualize2",
+    "autoload": {
+        "psr-4": {
+            "Daikionodera\\DataVisualize2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DaikiOnodera",
+            "email": "daikionodera0101@gmail.com"
+        }
+    ],
+    "require": {
+        "szymach/c-pchart": "^3.0"
+    }
+}

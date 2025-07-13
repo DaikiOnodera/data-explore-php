@@ -1,0 +1,21 @@
+{
+    "name": "daikionodera/data-visualize",
+    "autoload": {
+        "psr-4": {
+            "Daikionodera\\DataVisualize\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DaikiOnodera",
+            "email": "daikionodera0101@gmail.com"
+        }
+    ],
+    "require": {
+        "ianw/quickchart": "^1.3",
+        "phpoffice/phpspreadsheet": "^4.4"
+    },
+    "scripts": {
+        "visualize": "php src/visualize.php"
+    }
+}

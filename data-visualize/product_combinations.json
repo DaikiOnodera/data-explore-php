@@ -1,0 +1,546 @@
+{
+    "products": [
+        "WHITE HANGING HEART T-LIGHT HO",
+        "HAND WARMER BIRD DESIGN",
+        "PAPER CHAIN KIT 50'S CHRISTMAS",
+        "HAND WARMER UNION JACK",
+        "REGENCY CAKESTAND 3 TIER",
+        "HAND WARMER OWL DESIGN",
+        "HAND WARMER SCOTTY DOG DESIGN",
+        "RED WOOLLY HOTTIE WHITE HEART.",
+        "HOT WATER BOTTLE TEA AND SYMPA",
+        "PAPER CHAIN KIT VINTAGE CHRIST",
+        "JAM MAKING SET PRINTED",
+        "SCOTTIE DOG HOT WATER BOTTLE",
+        "HAND WARMER RED RETROSPOT",
+        "HEART OF WICKER SMALL",
+        "WHITE SKULL HOT WATER BOTTLE"
+    ],
+    "combinations": [
+        {
+            "product1": "HAND WARMER OWL DESIGN",
+            "product2": "HAND WARMER SCOTTY DOG DESIGN",
+            "count": 50
+        },
+        {
+            "product1": "HAND WARMER BIRD DESIGN",
+            "product2": "HAND WARMER SCOTTY DOG DESIGN",
+            "count": 45
+        },
+        {
+            "product1": "PAPER CHAIN KIT 50'S CHRISTMAS",
+            "product2": "PAPER CHAIN KIT VINTAGE CHRIST",
+            "count": 45
+        },
+        {
+            "product1": "HAND WARMER BIRD DESIGN",
+            "product2": "HAND WARMER OWL DESIGN",
+            "count": 45
+        },
+        {
+            "product1": "HAND WARMER RED RETROSPOT",
+            "product2": "HAND WARMER SCOTTY DOG DESIGN",
+            "count": 40
+        },
+        {
+            "product1": "HAND WARMER SCOTTY DOG DESIGN",
+            "product2": "HAND WARMER UNION JACK",
+            "count": 38
+        },
+        {
+            "product1": "HAND WARMER OWL DESIGN",
+            "product2": "HAND WARMER RED RETROSPOT",
+            "count": 38
+        },
+        {
+            "product1": "HAND WARMER BIRD DESIGN",
+            "product2": "HAND WARMER UNION JACK",
+            "count": 38
+        },
+        {
+            "product1": "RED WOOLLY HOTTIE WHITE HEART.",
+            "product2": "WHITE HANGING HEART T-LIGHT HO",
+            "count": 37
+        },
+        {
+            "product1": "HAND WARMER BIRD DESIGN",
+            "product2": "HAND WARMER RED RETROSPOT",
+            "count": 36
+        },
+        {
+            "product1": "HAND WARMER OWL DESIGN",
+            "product2": "HAND WARMER UNION JACK",
+            "count": 35
+        },
+        {
+            "product1": "HAND WARMER RED RETROSPOT",
+            "product2": "HAND WARMER UNION JACK",
+            "count": 33
+        },
+        {
+            "product1": "HAND WARMER BIRD DESIGN",
+            "product2": "PAPER CHAIN KIT 50'S CHRISTMAS",
+            "count": 31
+        },
+        {
+            "product1": "RED WOOLLY HOTTIE WHITE HEART.",
+            "product2": "SCOTTIE DOG HOT WATER BOTTLE",
+            "count": 30
+        },
+        {
+            "product1": "HAND WARMER BIRD DESIGN",
+            "product2": "HOT WATER BOTTLE TEA AND SYMPA",
+            "count": 29
+        },
+        {
+            "product1": "RED WOOLLY HOTTIE WHITE HEART.",
+            "product2": "WHITE SKULL HOT WATER BOTTLE",
+            "count": 29
+        },
+        {
+            "product1": "HAND WARMER OWL DESIGN",
+            "product2": "PAPER CHAIN KIT 50'S CHRISTMAS",
+            "count": 29
+        },
+        {
+            "product1": "HOT WATER BOTTLE TEA AND SYMPA",
+            "product2": "WHITE SKULL HOT WATER BOTTLE",
+            "count": 28
+        },
+        {
+            "product1": "HAND WARMER BIRD DESIGN",
+            "product2": "SCOTTIE DOG HOT WATER BOTTLE",
+            "count": 28
+        },
+        {
+            "product1": "HAND WARMER SCOTTY DOG DESIGN",
+            "product2": "SCOTTIE DOG HOT WATER BOTTLE",
+            "count": 27
+        },
+        {
+            "product1": "SCOTTIE DOG HOT WATER BOTTLE",
+            "product2": "WHITE SKULL HOT WATER BOTTLE",
+            "count": 27
+        },
+        {
+            "product1": "HAND WARMER SCOTTY DOG DESIGN",
+            "product2": "PAPER CHAIN KIT 50'S CHRISTMAS",
+            "count": 26
+        },
+        {
+            "product1": "HAND WARMER BIRD DESIGN",
+            "product2": "WHITE SKULL HOT WATER BOTTLE",
+            "count": 26
+        },
+        {
+            "product1": "HOT WATER BOTTLE TEA AND SYMPA",
+            "product2": "RED WOOLLY HOTTIE WHITE HEART.",
+            "count": 25
+        },
+        {
+            "product1": "HAND WARMER OWL DESIGN",
+            "product2": "PAPER CHAIN KIT VINTAGE CHRIST",
+            "count": 25
+        },
+        {
+            "product1": "HAND WARMER SCOTTY DOG DESIGN",
+            "product2": "PAPER CHAIN KIT VINTAGE CHRIST",
+            "count": 25
+        },
+        {
+            "product1": "PAPER CHAIN KIT 50'S CHRISTMAS",
+            "product2": "REGENCY CAKESTAND 3 TIER",
+            "count": 25
+        },
+        {
+            "product1": "HAND WARMER OWL DESIGN",
+            "product2": "WHITE SKULL HOT WATER BOTTLE",
+            "count": 24
+        },
+        {
+            "product1": "HOT WATER BOTTLE TEA AND SYMPA",
+            "product2": "SCOTTIE DOG HOT WATER BOTTLE",
+            "count": 24
+        },
+        {
+            "product1": "HAND WARMER BIRD DESIGN",
+            "product2": "PAPER CHAIN KIT VINTAGE CHRIST",
+            "count": 24
+        },
+        {
+            "product1": "PAPER CHAIN KIT VINTAGE CHRIST",
+            "product2": "REGENCY CAKESTAND 3 TIER",
+            "count": 24
+        },
+        {
+            "product1": "HAND WARMER BIRD DESIGN",
+            "product2": "RED WOOLLY HOTTIE WHITE HEART.",
+            "count": 24
+        },
+        {
+            "product1": "HAND WARMER SCOTTY DOG DESIGN",
+            "product2": "HOT WATER BOTTLE TEA AND SYMPA",
+            "count": 23
+        },
+        {
+            "product1": "HAND WARMER BIRD DESIGN",
+            "product2": "REGENCY CAKESTAND 3 TIER",
+            "count": 23
+        },
+        {
+            "product1": "HOT WATER BOTTLE TEA AND SYMPA",
+            "product2": "PAPER CHAIN KIT 50'S CHRISTMAS",
+            "count": 23
+        },
+        {
+            "product1": "PAPER CHAIN KIT 50'S CHRISTMAS",
+            "product2": "WHITE SKULL HOT WATER BOTTLE",
+            "count": 23
+        },
+        {
+            "product1": "HAND WARMER SCOTTY DOG DESIGN",
+            "product2": "WHITE SKULL HOT WATER BOTTLE",
+            "count": 22
+        },
+        {
+            "product1": "HAND WARMER OWL DESIGN",
+            "product2": "HOT WATER BOTTLE TEA AND SYMPA",
+            "count": 22
+        },
+        {
+            "product1": "HEART OF WICKER SMALL",
+            "product2": "WHITE HANGING HEART T-LIGHT HO",
+            "count": 22
+        },
+        {
+            "product1": "PAPER CHAIN KIT 50'S CHRISTMAS",
+            "product2": "WHITE HANGING HEART T-LIGHT HO",
+            "count": 22
+        },
+        {
+            "product1": "HAND WARMER RED RETROSPOT",
+            "product2": "HOT WATER BOTTLE TEA AND SYMPA",
+            "count": 21
+        },
+        {
+            "product1": "HAND WARMER RED RETROSPOT",
+            "product2": "SCOTTIE DOG HOT WATER BOTTLE",
+            "count": 21
+        },
+        {
+            "product1": "HAND WARMER RED RETROSPOT",
+            "product2": "PAPER CHAIN KIT 50'S CHRISTMAS",
+            "count": 21
+        },
+        {
+            "product1": "HOT WATER BOTTLE TEA AND SYMPA",
+            "product2": "REGENCY CAKESTAND 3 TIER",
+            "count": 21
+        },
+        {
+            "product1": "PAPER CHAIN KIT 50'S CHRISTMAS",
+            "product2": "RED WOOLLY HOTTIE WHITE HEART.",
+            "count": 21
+        },
+        {
+            "product1": "HAND WARMER SCOTTY DOG DESIGN",
+            "product2": "RED WOOLLY HOTTIE WHITE HEART.",
+            "count": 21
+        },
+        {
+            "product1": "HAND WARMER OWL DESIGN",
+            "product2": "WHITE HANGING HEART T-LIGHT HO",
+            "count": 20
+        },
+        {
+            "product1": "HAND WARMER RED RETROSPOT",
+            "product2": "WHITE SKULL HOT WATER BOTTLE",
+            "count": 20
+        },
+        {
+            "product1": "HOT WATER BOTTLE TEA AND SYMPA",
+            "product2": "WHITE HANGING HEART T-LIGHT HO",
+            "count": 20
+        },
+        {
+            "product1": "HAND WARMER BIRD DESIGN",
+            "product2": "WHITE HANGING HEART T-LIGHT HO",
+            "count": 20
+        },
+        {
+            "product1": "WHITE HANGING HEART T-LIGHT HO",
+            "product2": "WHITE SKULL HOT WATER BOTTLE",
+            "count": 20
+        },
+        {
+            "product1": "PAPER CHAIN KIT VINTAGE CHRIST",
+            "product2": "WHITE HANGING HEART T-LIGHT HO",
+            "count": 19
+        },
+        {
+            "product1": "HAND WARMER SCOTTY DOG DESIGN",
+            "product2": "WHITE HANGING HEART T-LIGHT HO",
+            "count": 19
+        },
+        {
+            "product1": "HAND WARMER OWL DESIGN",
+            "product2": "SCOTTIE DOG HOT WATER BOTTLE",
+            "count": 19
+        },
+        {
+            "product1": "RED WOOLLY HOTTIE WHITE HEART.",
+            "product2": "REGENCY CAKESTAND 3 TIER",
+            "count": 19
+        },
+        {
+            "product1": "HAND WARMER OWL DESIGN",
+            "product2": "REGENCY CAKESTAND 3 TIER",
+            "count": 19
+        },
+        {
+            "product1": "SCOTTIE DOG HOT WATER BOTTLE",
+            "product2": "WHITE HANGING HEART T-LIGHT HO",
+            "count": 19
+        },
+        {
+            "product1": "HAND WARMER OWL DESIGN",
+            "product2": "RED WOOLLY HOTTIE WHITE HEART.",
+            "count": 19
+        },
+        {
+            "product1": "HAND WARMER UNION JACK",
+            "product2": "WHITE HANGING HEART T-LIGHT HO",
+            "count": 18
+        },
+        {
+            "product1": "HEART OF WICKER SMALL",
+            "product2": "PAPER CHAIN KIT 50'S CHRISTMAS",
+            "count": 18
+        },
+        {
+            "product1": "HAND WARMER BIRD DESIGN",
+            "product2": "JAM MAKING SET PRINTED",
+            "count": 18
+        },
+        {
+            "product1": "HAND WARMER RED RETROSPOT",
+            "product2": "RED WOOLLY HOTTIE WHITE HEART.",
+            "count": 18
+        },
+        {
+            "product1": "HAND WARMER UNION JACK",
+            "product2": "RED WOOLLY HOTTIE WHITE HEART.",
+            "count": 18
+        },
+        {
+            "product1": "REGENCY CAKESTAND 3 TIER",
+            "product2": "WHITE HANGING HEART T-LIGHT HO",
+            "count": 18
+        },
+        {
+            "product1": "PAPER CHAIN KIT 50'S CHRISTMAS",
+            "product2": "SCOTTIE DOG HOT WATER BOTTLE",
+            "count": 18
+        },
+        {
+            "product1": "PAPER CHAIN KIT VINTAGE CHRIST",
+            "product2": "WHITE SKULL HOT WATER BOTTLE",
+            "count": 18
+        },
+        {
+            "product1": "HAND WARMER UNION JACK",
+            "product2": "WHITE SKULL HOT WATER BOTTLE",
+            "count": 17
+        },
+        {
+            "product1": "HAND WARMER UNION JACK",
+            "product2": "PAPER CHAIN KIT 50'S CHRISTMAS",
+            "count": 17
+        },
+        {
+            "product1": "HAND WARMER UNION JACK",
+            "product2": "HOT WATER BOTTLE TEA AND SYMPA",
+            "count": 17
+        },
+        {
+            "product1": "HEART OF WICKER SMALL",
+            "product2": "REGENCY CAKESTAND 3 TIER",
+            "count": 17
+        },
+        {
+            "product1": "HAND WARMER SCOTTY DOG DESIGN",
+            "product2": "REGENCY CAKESTAND 3 TIER",
+            "count": 17
+        },
+        {
+            "product1": "REGENCY CAKESTAND 3 TIER",
+            "product2": "WHITE SKULL HOT WATER BOTTLE",
+            "count": 17
+        },
+        {
+            "product1": "PAPER CHAIN KIT VINTAGE CHRIST",
+            "product2": "RED WOOLLY HOTTIE WHITE HEART.",
+            "count": 17
+        },
+        {
+            "product1": "JAM MAKING SET PRINTED",
+            "product2": "PAPER CHAIN KIT VINTAGE CHRIST",
+            "count": 16
+        },
+        {
+            "product1": "JAM MAKING SET PRINTED",
+            "product2": "WHITE HANGING HEART T-LIGHT HO",
+            "count": 16
+        },
+        {
+            "product1": "HAND WARMER RED RETROSPOT",
+            "product2": "PAPER CHAIN KIT VINTAGE CHRIST",
+            "count": 16
+        },
+        {
+            "product1": "HAND WARMER OWL DESIGN",
+            "product2": "JAM MAKING SET PRINTED",
+            "count": 16
+        },
+        {
+            "product1": "HOT WATER BOTTLE TEA AND SYMPA",
+            "product2": "PAPER CHAIN KIT VINTAGE CHRIST",
+            "count": 16
+        },
+        {
+            "product1": "HAND WARMER UNION JACK",
+            "product2": "PAPER CHAIN KIT VINTAGE CHRIST",
+            "count": 16
+        },
+        {
+            "product1": "HAND WARMER UNION JACK",
+            "product2": "SCOTTIE DOG HOT WATER BOTTLE",
+            "count": 15
+        },
+        {
+            "product1": "HEART OF WICKER SMALL",
+            "product2": "PAPER CHAIN KIT VINTAGE CHRIST",
+            "count": 15
+        },
+        {
+            "product1": "HAND WARMER BIRD DESIGN",
+            "product2": "HEART OF WICKER SMALL",
+            "count": 15
+        },
+        {
+            "product1": "HAND WARMER RED RETROSPOT",
+            "product2": "REGENCY CAKESTAND 3 TIER",
+            "count": 15
+        },
+        {
+            "product1": "PAPER CHAIN KIT VINTAGE CHRIST",
+            "product2": "SCOTTIE DOG HOT WATER BOTTLE",
+            "count": 15
+        },
+        {
+            "product1": "HEART OF WICKER SMALL",
+            "product2": "WHITE SKULL HOT WATER BOTTLE",
+            "count": 15
+        },
+        {
+            "product1": "HEART OF WICKER SMALL",
+            "product2": "JAM MAKING SET PRINTED",
+            "count": 14
+        },
+        {
+            "product1": "JAM MAKING SET PRINTED",
+            "product2": "REGENCY CAKESTAND 3 TIER",
+            "count": 14
+        },
+        {
+            "product1": "HOT WATER BOTTLE TEA AND SYMPA",
+            "product2": "JAM MAKING SET PRINTED",
+            "count": 14
+        },
+        {
+            "product1": "REGENCY CAKESTAND 3 TIER",
+            "product2": "SCOTTIE DOG HOT WATER BOTTLE",
+            "count": 14
+        },
+        {
+            "product1": "HEART OF WICKER SMALL",
+            "product2": "HOT WATER BOTTLE TEA AND SYMPA",
+            "count": 14
+        },
+        {
+            "product1": "JAM MAKING SET PRINTED",
+            "product2": "WHITE SKULL HOT WATER BOTTLE",
+            "count": 14
+        },
+        {
+            "product1": "HAND WARMER RED RETROSPOT",
+            "product2": "WHITE HANGING HEART T-LIGHT HO",
+            "count": 13
+        },
+        {
+            "product1": "JAM MAKING SET PRINTED",
+            "product2": "PAPER CHAIN KIT 50'S CHRISTMAS",
+            "count": 13
+        },
+        {
+            "product1": "HAND WARMER UNION JACK",
+            "product2": "REGENCY CAKESTAND 3 TIER",
+            "count": 13
+        },
+        {
+            "product1": "HAND WARMER SCOTTY DOG DESIGN",
+            "product2": "JAM MAKING SET PRINTED",
+            "count": 13
+        },
+        {
+            "product1": "HEART OF WICKER SMALL",
+            "product2": "SCOTTIE DOG HOT WATER BOTTLE",
+            "count": 13
+        },
+        {
+            "product1": "JAM MAKING SET PRINTED",
+            "product2": "SCOTTIE DOG HOT WATER BOTTLE",
+            "count": 13
+        },
+        {
+            "product1": "HAND WARMER OWL DESIGN",
+            "product2": "HEART OF WICKER SMALL",
+            "count": 12
+        },
+        {
+            "product1": "HAND WARMER RED RETROSPOT",
+            "product2": "HEART OF WICKER SMALL",
+            "count": 12
+        },
+        {
+            "product1": "HAND WARMER RED RETROSPOT",
+            "product2": "JAM MAKING SET PRINTED",
+            "count": 12
+        },
+        {
+            "product1": "HAND WARMER UNION JACK",
+            "product2": "JAM MAKING SET PRINTED",
+            "count": 12
+        },
+        {
+            "product1": "HAND WARMER UNION JACK",
+            "product2": "HEART OF WICKER SMALL",
+            "count": 11
+        },
+        {
+            "product1": "HAND WARMER SCOTTY DOG DESIGN",
+            "product2": "HEART OF WICKER SMALL",
+            "count": 10
+        },
+        {
+            "product1": "HEART OF WICKER SMALL",
+            "product2": "RED WOOLLY HOTTIE WHITE HEART.",
+            "count": 10
+        },
+        {
+            "product1": "JAM MAKING SET PRINTED",
+            "product2": "RED WOOLLY HOTTIE WHITE HEART.",
+            "count": 10
+        }
+    ]
+}
