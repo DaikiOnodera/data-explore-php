@@ -25,8 +25,16 @@ foreach ($combinations as $combo) {
 foreach ($combinations as $combo) {
     $xIndex = array_search($combo['product1'], $products);
     $yIndex = array_search($combo['product2'], $products);
-    
+
     if ($xIndex !== false && $yIndex !== false) {
+        // Ensure bubble appears below the diagonal (bottom-right part)
+        // If x < y, swap them so the bubble appears in the bottom-right
+        if ($xIndex < $yIndex) {
+            $temp = $xIndex;
+            $xIndex = $yIndex;
+            $yIndex = $temp;
+        }
+
         $allData[] = [
             'x' => $xIndex,
             'y' => $yIndex,
@@ -58,7 +66,7 @@ $chartConfig = [
                     'size' => 12,
                     'weight' => 'bold'
                 ],
-                'formatter' => 'function(value, context) { return value.count; }'
+                'formatter' => '<<<FORMATTER>>>'
             ],
             'title' => [
                 'display' => true,
@@ -69,24 +77,20 @@ $chartConfig = [
             ]
         ],
         'scales' => [
-            'x' => [
-                'type' => 'category',
-                'labels' => $products,
-                'position' => 'bottom',
+            'yAxes' => [[
                 'ticks' => [
+                    'stepSize' => 1,
                     'autoSkip' => false,
-                    'maxRotation' => 90,
-                    'minRotation' => 45
+                    'callback' => '<<<CALLBACK>>>'
                 ]
-            ],
-            'y' => [
-                'type' => 'category',
-                'labels' => $products,
-                'position' => 'left',
+            ]],
+            'xAxes' => [[
                 'ticks' => [
-                    'autoSkip' => false
+                    'stepSize' => 1,
+                    'autoSkip' => false,
+                    'callback' => '<<<CALLBACK>>>'
                 ]
-            ]
+            ]]
         ],
         'layout' => [
             'padding' => 20
@@ -94,8 +98,13 @@ $chartConfig = [
     ]
 ];
 
+// Convert to JSON first, then replace the formatter placeholder with actual JS function
+$configJson = json_encode($chartConfig);
+$configJson = str_replace('"<<<FORMATTER>>>"', 'function(value, context) { return value.count; }', $configJson);
+$configJson = str_replace('"<<<CALLBACK>>>"', 'function(x) { return "商品" + x; }', $configJson);
+
 $chart = new QuickChart();
-$chart->setConfig(json_encode($chartConfig));
+$chart->setConfig($configJson);
 $chart->setWidth(1200);
 $chart->setHeight(1200);
 $chart->setBackgroundColor('white');

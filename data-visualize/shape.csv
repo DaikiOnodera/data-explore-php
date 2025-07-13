@@ -1,4 +1,0 @@
-Metric,Value
-"Total Rows",541910
-"Total Columns",8
-"Column Names","InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country"

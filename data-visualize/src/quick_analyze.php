@@ -38,22 +38,22 @@ $rowIndex = 0;
 foreach ($worksheet->getRowIterator(2) as $row) {
     $cellIterator = $row->getCellIterator();
     $cellIterator->setIterateOnlyExistingCells(false);
-    
+
     $data = [];
     foreach ($cellIterator as $cell) {
         $data[] = $cell->getValue();
     }
-    
+
     if (count($data) >= 8 && !empty($data[0]) && !empty($data[2])) {
         $invoiceNo = trim($data[0]);
         $description = trim($data[2]);
-        
+
         if (!isset($invoiceProducts[$invoiceNo])) {
             $invoiceProducts[$invoiceNo] = [];
         }
         $invoiceProducts[$invoiceNo][] = $description;
     }
-    
+
     $rowIndex++;
     if ($rowIndex % 1000 === 0) {
         echo "Processed $rowIndex rows...\n";
@@ -66,22 +66,22 @@ $productCounts = [];
 
 foreach ($invoiceProducts as $invoice => $products) {
     $uniqueProducts = array_unique($products);
-    
+
     foreach ($uniqueProducts as $product) {
         if (!isset($productCounts[$product])) {
             $productCounts[$product] = 0;
         }
         $productCounts[$product]++;
     }
-    
+
     $productList = array_values($uniqueProducts);
-    
+
     for ($i = 0; $i < count($productList); $i++) {
         for ($j = $i + 1; $j < count($productList); $j++) {
             $pair = [$productList[$i], $productList[$j]];
             sort($pair);
             $pairKey = implode('|||', $pair);
-            
+
             if (!isset($productPairs[$pairKey])) {
                 $productPairs[$pairKey] = 0;
             }
